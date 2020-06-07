@@ -1,0 +1,13 @@
+h3{
+	color:pink; font: italic; font-size: 100px; background: (00,00,00,.6);
+}
+
+h4{
+	color:blue; font-size: 50pt;
+}
+#h4{
+	color:green; font-size: 50pt;
+}
+.h4{
+	color:red; font-size: 50pt;
+}
